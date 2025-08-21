@@ -32,7 +32,7 @@ Python-Programming/
 ## Cursos Disponibles
 1. **Introducción a la Programación en Python**: Aprende los conceptos básicos de Python, desde variables hasta estructuras de datos.
 2. **Python Avanzado**: Profundiza en temas como programación orientada a objetos, manejo de errores y bibliotecas estándar.
-3. **Python Aplicado**: Aplica tus conocimientos en proyectos prácticos y casos de estudio.
+3. **Python Aplicado**: Amplia tus conociemientos con librerias usadas en diferentes campos como análisis de datos, desarrollo web, automatización, video juegos, machine learning, entre otros.
 4. **Proyectos en Python**: Desarrolla proyectos completos utilizando Python, desde la planificación hasta la implementación.
 
 Cada curso contiene materiales de estudio, ejercicios prácticos y proyectos para ayudarte a consolidar tus conocimientos.

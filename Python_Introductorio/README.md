@@ -35,39 +35,51 @@ Introduccion a Programacion en Python/
 |   ├── 01_primeros_pasos/
 |       ├── clase_01_1.ipynb
 |       ├── ejercicios_01_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 02_python_basico/
 |       ├── clase_02_1.ipynb
 |       ├── ejercicios_02_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 03_sintaxis_basica/
 |       ├── clase_03_1.ipynb
 |       ├── ejercicios_03_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 04_variables_datos/
 |       ├── clase_04_1.ipynb
 |       ├── ejercicios_04_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 05_control_de_flujo/
 |       ├── clase_05_1.ipynb
 |       ├── ejercicios_05_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 06_funciones_y_modulos/
 |       ├── clase_06_1.ipynb
 |       ├── ejercicios_06_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 07_listas_y_strings/
 |       ├── clase_07_1.ipynb
 |       ├── ejercicios_07_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 08_listas_de_listas/
 |       ├── clase_08_1.ipynb
 |       ├── ejercicios_08_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 09_recursion/
 |       ├── clase_09_1.ipynb
 |       ├── ejercicios_09_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 10_archivos/
 |       ├── clase_10_1.ipynb
 |       ├── ejercicios_10_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   ├── 11_programacion_orientada_a_objetos/
 |       ├── clase_11_1.ipynb
 |       ├── ejercicios_11_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 |   └── 12_ordenacion_y_busqueda/
 |       ├── clase_12_1.ipynb
 |       ├── ejercicios_12_1.ipynb
+|       ├── content/    # Imagenes y recursos adicionales
 ├── tareas/
 |   ├── t_0/
 |       ├── t_0_Hoja_Respuestas.ipynb
@@ -88,4 +100,4 @@ Introduccion a Programacion en Python/
 A lo largo del curso, se proporcionarán recursos adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
 
 ## Contacto
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [mi correo electrónico](mailto: anatomik2025@gmail.com) o abrir un issue en este repositorio.
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.como](mailto:anatomik2025@gmail.com) o abrir un issue en este repositorio.
