@@ -2,7 +2,7 @@
 
 Version en Español | [English Version](./README_EN.md)      Por elaborarse
 
-Version de repositorio: 0.110.3300.00
+Version de repositorio: 0.100.3300.00
 
 - Lanzamiento
     - *Identator*

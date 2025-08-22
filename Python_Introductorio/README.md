@@ -148,8 +148,8 @@ Para comenzar, simplemente abre la carpeta del curso en [**Google Drive**](https
 <img src="contenidos/c01_primeros_pasos/content/drive_collab.png" alt="menu" width="1000">
 
 
-## Recursos Adicionales
+### Recursos Adicionales
 A lo largo del curso, se proporcionarán recursos adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
 
-## Contacto
+### Contacto
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.com](mailto:anatomik2025@gmail.com).
