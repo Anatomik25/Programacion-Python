@@ -5,9 +5,6 @@ El objetivo es que al finalizar el curso tengas una comprensión sólida de los 
 
 # Estructura del Curso
 
-## Como Empezar
-Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un curso introductorio, no te sera necesario instalar nada, ya que utilizaremos un entorno para programar llamado [**Google Colab**](https://colab.research.google.com/). Este entorno te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo, poder tener acceso de una forma mas amistosa.
-
 ## Contenidos:
 A lo largo de este curso, cubriremos los siguientes temas:
 1. Primeros pasos en programación
@@ -76,27 +73,35 @@ Introduccion a Programacion en Python/
 |       ├── content/
 |
 |   ├── 07_listas_de_listas/
-|       ├── clase_07_1.ipynb
+|       ├── clase_07_1.ipynb        # Listas de listas
+|       ├── clase_07_2.ipynb        # Comprensión de listas
 |       ├── ejercicios_07_1.ipynb
 |       ├── content/
 |
 |   ├── 08_recursion/
-|       ├── clase_08_1.ipynb
+|       ├── clase_08_1.ipynb        # Funciones recursivas
 |       ├── ejercicios_08_1.ipynb
 |       ├── content/
 |
 |   ├── 9_archivos/
-|       ├── clase_09_1.ipynb
+|       ├── clase_09_1.ipynb        # Manejo de archivos
+|       ├── clase_09_2.ipynb        # Lectura y escritura de archivos de texto
+|       ├── clase_09_3.ipynb        # Archivos CSV
+|       ├── clase_09_4.ipynb        # Archivos JSON
 |       ├── ejercicios_09_1.ipynb
 |       ├── content/
 |
 |   ├── 10_programacion_orientada_a_objetos/
-|       ├── clase_10_1.ipynb
+|       ├── clase_10_1.ipynb        # Introducción a la programación orientada a objetos
+|       ├── clase_10_2.ipynb        # Clases y objetos
+|       ├── clase_10_3.ipynb        # Atributos y métodos
 |       ├── ejercicios_10_1.ipynb
 |       ├── content/
 |
 |   └── 11_ordenacion_y_busqueda/
-|       ├── clase_11_1.ipynb
+|       ├── clase_11_1.ipynb        # Sort
+|       ├── clase_11_2.ipynb        # Búsqueda
+|       ├── clase_11_3.ipynb        # Algoritmos de ordenación
 |       ├── ejercicios_11_1.ipynb
 |       ├── content/
 |
@@ -116,8 +121,35 @@ Introduccion a Programacion en Python/
 └── README.md
 ```
 
+## Como Empezar
+Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un curso introductorio, no te sera necesario instalar nada, ya que utilizaremos un entorno para programar llamado [**Google Colab**](https://colab.research.google.com/). Este entorno te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo, poder tener acceso de una forma mas amistosa.
+
+Para comenzar, simplemente abre la carpeta del curso en [**Google Drive**](https://drive.google.com/) en *Mi Unidad*.
+
+### Pasos para acceder a las clases en Google Drive
+1. Abre el enlace de Google Drive y dirigete en *Mi Unidad* selecciona la carpeta `Python-Programming`.
+
+<img src="contenidos/c01_primeros_pasos/content/drive_miunidad.png" alt="menu" width="400">
+
+2. Selecciona la carpeta `contenidos/`.
+
+<img src="contenidos/c01_primeros_pasos/content/drive_pyintro.png" alt="menu" width="400">
+
+3. Selecciona la carpeta del contenido que quieras estudiar: `c01_Primeros_Pasos/`.
+
+<img src="contenidos/c01_primeros_pasos/content/drive_contenidos.png" alt="menu" width="400">
+
+4. Selecciona la carpeta de la clase que deseas revisar: `clase_01_1.ipynb`.
+
+<img src="contenidos/c01_primeros_pasos/content/drive_clases.png" alt="menu" width="400">
+
+5. Y listo! Ahora puedes comenzar a estudiar sin problemas. Cada clase contiene explicaciones, ejemplos de código y ejercicios prácticos para que puedas practicar lo aprendido.
+
+<img src="contenidos/c01_primeros_pasos/content/drive_collab.png" alt="menu" width="1000">
+
+
 ## Recursos Adicionales
 A lo largo del curso, se proporcionarán recursos adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
 
 ## Contacto
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.como](mailto:anatomik2025@gmail.com) o abrir un issue en este repositorio.
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.com](mailto:anatomik2025@gmail.com).

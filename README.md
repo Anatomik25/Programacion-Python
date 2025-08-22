@@ -1,5 +1,29 @@
 # Este repositorio aun esta en desarrollo
-v1.0.1
+
+Version en Español | [English Version](./README_EN.md)      Por elaborarse
+
+Version de repositorio: 0.110.3300.00
+
+- Lanzamiento
+    - *Identator*
+- Modificación de Estructural (Contenidos, Tareas, Miscelaneos) 
+    - 1: Creating content
+    - 2: Removing content
+    - 3: Adding content
+    - 7: Review
+    - 9: Release
+    - 0: None
+- Modificacion Interna (Clases, Ejercicios, Enunciados, Soluciones) 
+    - 1: Creating content
+    - 2: Removing content
+    - 3: Adding content
+    - 7: Review
+    - 9: Release
+    - 0: None
+- Modificacion menor (Correcciones, Actualizaciones)
+    - 0: None
+    - 1: Corrections
+    - 2: Updates
 
 # Python
 
