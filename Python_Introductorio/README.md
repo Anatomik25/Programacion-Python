@@ -1,28 +1,29 @@
 # Introduccion a Python
 
-Bienvenido al curso de introducción a Python. En este curso, aprenderás los conceptos básicos de programación utilizando el lenguaje Python. Está diseñado para principiantes y no tiene como requisito ninguna experiencia previa en programación ni ninguna otra habilidad técnica.
-El objetivo es que al finalizar el curso tengas una comprensión sólida de los fundamentos de Python y puedas comenzar a escribir tus propios programas basicos.
+Version de repositorio: 0.0.0
 
-# Estructura del Curso
+Bienvenido al Workbook de Itroducción a Python. En este Workbook aprenderás los conceptos básicos de programación utilizando el lenguaje Python. Está diseñado para principiantes y no tiene como requisito ninguna experiencia previa en programación ni ninguna otra habilidad técnica.
+El objetivo es que al finalizar el Workbook tengas una comprensión sólida de los fundamentos de Python y puedas comenzar a escribir tus propios programas basicos.
+
+# Estructura del Workbook
 
 ## Contenidos:
-A lo largo de este curso, cubriremos los siguientes temas:
+A lo largo de este Workbook, cubriremos los siguientes temas:
 1. Primeros pasos en programación
-2. El lenguaje de programación Python
-3. Sintaxis básica de Python
-4. Variables y tipos de datos
-5. Estructuras de control de flujo
+2. Sintaxis básica de Python
+3. Variables y tipos de datos
+4. Estructuras de control de flujo
+5. Listas y strings
 6. Funciones y módulos
-7. Listas y strings
-8. Listas de listas
-9. Recursion
-10. Archivos
-11. Programación orientada a objetos simple
-12. Ordenacion y busqueda
+7. Listas de listas
+8. Recursion
+9. Archivos
+10. Programación orientada a objetos simple
+11. Ordenacion y busqueda
 
 ## Organización:
-El curso tendra la siguiente estructura de carpetas.
-- Los contenidos de cada clase estaran en la carpeta `contenidos/`, donde cada subcarpeta corresponde a un tema del curso, teniendo las clases de los topicos y los ejercicios asignados a sus correspondientes clases.
+El Workbook tendra la siguiente estructura de carpetas.
+- Los contenidos de cada capitulo estaran en la carpeta `contenidos/`, donde cada subcarpeta corresponde a un tema del Workbook, teniendo los materiales de los topicos y los ejercicios asignados a sus correspondientes materiales.
 - Las tareas se encontraran en la carpeta `tareas/`, donde cada subcarpeta tendra el respectivo enunciado y hoja de respuestas.
 
 ```
@@ -30,78 +31,78 @@ Introduccion a Programacion en Python/
 │
 ├── contenidos/
 |   ├── 01_primeros_pasos/
-|       ├── clase_01_1.ipynb        # Python y la Programación
-|       ├── clase_01_2.ipynb        # Primeros pasos en programación (Python en Google Colab)
+|       ├── capitulo_01_1.ipynb        # Python y la Programación
+|       ├── capitulo_01_2.ipynb        # Primeros pasos en programación (Python en Google Colab)
 |       ├── ejercicios_01_1.ipynb
 |       ├── content/
 |
 |   ├── 02_sintaxis_basica/
-|       ├── clase_02_1.ipynb        # Funciones internas y sintaxis básica de Python
-|       ├── clase_02_2.ipynb        # Funcionamiento del lenguaje de programación Python
+|       ├── capitulo_02_1.ipynb        # Funciones internas y sintaxis básica de Python
+|       ├── capitulo_02_2.ipynb        # Funcionamiento del lenguaje de programación Python
 |       ├── ejercicios_02_1.ipynb
 |       ├── content/
 |
 |   ├── 03_variables_datos/
-|       ├── clase_03_1.ipynb        # Variables y tipos de datos
-|       ├── clase_03_2.ipynb        # Operadores y expresiones
-|       ├── clase_03_3.ipynb        # Conversión de tipos
-|       ├── clase_03_4.ipynb        # Entrada y salida de datos
+|       ├── capitulo_03_1.ipynb        # Variables y tipos de datos
+|       ├── capitulo_03_2.ipynb        # Operadores y expresiones
+|       ├── capitulo_03_3.ipynb        # Conversión de tipos
+|       ├── capitulo_03_4.ipynb        # Entrada y salida de datos
 |       ├── ejercicios_03_1.ipynb
 |       ├── content/
 |
 |   ├── 04_control_de_flujo/
-|       ├── clase_04_1.ipynb        # Estructuras de control de flujo
-|       ├── clase_04_2.ipynb        # Condicionales
-|       ├── clase_04_3.ipynb        # Bucles
-|       ├── clase_04_4.ipynb        # Manejo de excepciones
+|       ├── capitulo_04_1.ipynb        # Estructuras de control de flujo
+|       ├── capitulo_04_2.ipynb        # Condicionales
+|       ├── capitulo_04_3.ipynb        # Bucles
+|       ├── capitulo_04_4.ipynb        # Manejo de excepciones
 |       ├── ejercicios_04_1.ipynb
 |       ├── content/
 |
 |   ├── 05_listas_y_strings/
-|       ├── clase_05_1.ipynb        # Listas
-|       ├── clase_05_2.ipynb        # Strings
-|       ├── clase_05_3.ipynb        # Métodos de listas
-|       ├── clase_05_4.ipynb        # Métodos de strings
+|       ├── capitulo_05_1.ipynb        # Listas
+|       ├── capitulo_05_2.ipynb        # Métodos de listas
+|       ├── capitulo_05_3.ipynb        # Strings
+|       ├── capitulo_05_4.ipynb        # Métodos de strings
 |       ├── ejercicios_05_1.ipynb
 |       ├── content/
 |
 |   ├── 06_funciones_y_modulos/
-|       ├── clase_06_1.ipynb        # Funciones
-|       ├── clase_06_2.ipynb        # Módulos y paquetes
-|       ├── clase_06_3.ipynb        # Alcance de variables
+|       ├── capitulo_06_1.ipynb        # Funciones
+|       ├── capitulo_06_2.ipynb        # Módulos y paquetes
+|       ├── capitulo_06_3.ipynb        # Alcance de variables
 |       ├── ejercicios_06_1.ipynb
 |       ├── content/
 |
 |   ├── 07_listas_de_listas/
-|       ├── clase_07_1.ipynb        # Listas de listas
-|       ├── clase_07_2.ipynb        # Comprensión de listas
+|       ├── capitulo_07_1.ipynb        # Listas de listas
+|       ├── capitulo_07_2.ipynb        # Comprensión de listas
 |       ├── ejercicios_07_1.ipynb
 |       ├── content/
 |
 |   ├── 08_recursion/
-|       ├── clase_08_1.ipynb        # Funciones recursivas
+|       ├── capitulo_08_1.ipynb        # Funciones recursivas
 |       ├── ejercicios_08_1.ipynb
 |       ├── content/
 |
 |   ├── 9_archivos/
-|       ├── clase_09_1.ipynb        # Manejo de archivos
-|       ├── clase_09_2.ipynb        # Lectura y escritura de archivos de texto
-|       ├── clase_09_3.ipynb        # Archivos CSV
-|       ├── clase_09_4.ipynb        # Archivos JSON
+|       ├── capitulo_09_1.ipynb        # Manejo de archivos de texto
+|       ├── capitulo_09_2.ipynb        # Escritura de archivos
+|       ├── capitulo_09_3.ipynb        # Archivos CSV
+|       ├── capitulo_09_4.ipynb        # Archivos JSON
 |       ├── ejercicios_09_1.ipynb
 |       ├── content/
 |
 |   ├── 10_programacion_orientada_a_objetos/
-|       ├── clase_10_1.ipynb        # Introducción a la programación orientada a objetos
-|       ├── clase_10_2.ipynb        # Clases y objetos
-|       ├── clase_10_3.ipynb        # Atributos y métodos
+|       ├── capitulo_10_1.ipynb        # Introducción a la programación orientada a objetos
+|       ├── capitulo_10_2.ipynb        # Materiales y objetos
+|       ├── capitulo_10_3.ipynb        # Atributos y métodos
 |       ├── ejercicios_10_1.ipynb
 |       ├── content/
 |
 |   └── 11_ordenacion_y_busqueda/
-|       ├── clase_11_1.ipynb        # Sort
-|       ├── clase_11_2.ipynb        # Búsqueda
-|       ├── clase_11_3.ipynb        # Algoritmos de ordenación
+|       ├── capitulo_11_1.ipynb        # Sort
+|       ├── capitulo_11_2.ipynb        # Búsqueda
+|       ├── capitulo_11_3.ipynb        # Algoritmos de ordenación
 |       ├── ejercicios_11_1.ipynb
 |       ├── content/
 |
@@ -116,40 +117,40 @@ Introduccion a Programacion en Python/
 |       ├── t_2_Hoja_Respuestas.ipynb
 |       ├── t_2_Instrucciones.ipynb
 ├── miscelaneos/
-|   ├── recursos_adicionales/
+|   ├── reWorkbooks_adicionales/
 |   ├── glosario.md
 └── README.md
 ```
 
 ## Como Empezar
-Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un curso introductorio, no te sera necesario instalar nada, ya que utilizaremos un entorno para programar llamado [**Google Colab**](https://colab.research.google.com/). Este entorno te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo, poder tener acceso de una forma mas amistosa.
+Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un Workbook introductorio, no te sera necesario instalar nada, ya que utilizaremos un espacio para programar llamado [**Google Colab**](https://colab.research.google.com/). Este espacio te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo poder tener acceso de una forma mas amistosa.
 
-Para comenzar, simplemente abre la carpeta del curso en [**Google Drive**](https://drive.google.com/) en *Mi Unidad*.
+Para comenzar, simplemente abre la carpeta del Workbook en [**Google Drive**](https://drive.google.com/) en *Mi Unidad*.
 
-### Pasos para acceder a las clases en Google Drive
-1. Abre el enlace de Google Drive y dirigete en *Mi Unidad* selecciona la carpeta `Python-Programming`.
+### Acceder a los materiales en Google Drive
+1. Abre el enlace de Google Drive y dirigete en *Mi Unidad* selecciona la carpeta `Python-Programming` y podrás encontrar la carpeta `Python_Introductorio`.
 
-<img src="contenidos/c01_primeros_pasos/content/drive_miunidad.png" alt="menu" width="400">
+<img src="contenidos\c01_Primeros_Pasos\content\dr_miunidad.png" alt="menu" width="400">
 
 2. Selecciona la carpeta `contenidos/`.
 
-<img src="contenidos/c01_primeros_pasos/content/drive_pyintro.png" alt="menu" width="400">
+<img src="contenidos\c01_Primeros_Pasos\content\dr_pyintro.png" alt="menu" width="400">
 
 3. Selecciona la carpeta del contenido que quieras estudiar: `c01_Primeros_Pasos/`.
 
-<img src="contenidos/c01_primeros_pasos/content/drive_contenidos.png" alt="menu" width="400">
+<img src="contenidos\c01_Primeros_Pasos\content\dr_contenidos.png" alt="menu" width="400">
 
-4. Selecciona la carpeta de la clase que deseas revisar: `clase_01_1.ipynb`.
+4. Selecciona la carpeta del capitulo que deseas revisar: `capitulo_01_1.ipynb`.
 
-<img src="contenidos/c01_primeros_pasos/content/drive_clases.png" alt="menu" width="400">
+<img src="contenidos\c01_Primeros_Pasos\content\dr_clases.png" alt="menu" width="400">
 
-5. Y listo! Ahora puedes comenzar a estudiar sin problemas. Cada clase contiene explicaciones, ejemplos de código y ejercicios prácticos para que puedas practicar lo aprendido.
+5. Y listo! Ahora puedes comenzar a estudiar sin problemas. Cada capitulo contiene explicaciones, ejemplos de código y ejercicios prácticos para que puedas practicar lo aprendido.
 
-<img src="contenidos/c01_primeros_pasos/content/drive_collab.png" alt="menu" width="1000">
+<img src="contenidos\c01_Primeros_Pasos\content\dr_collab.png" alt="menu" width="1000">
 
 
 ### Recursos Adicionales
-A lo largo del curso, se proporcionarán recursos adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
+A lo largo del Workbook, se proporcionarán Recursos Adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
 
 ### Contacto
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.com](mailto:anatomik2025@gmail.com).
