@@ -1,13 +1,28 @@
 # Introduccion a Python
 
+*Este documento entrega información sobre el contenido y la estructura del Workbook de Introducción a Python. Tambien proporciona instrucciones sobre cómo empezar a utilizar el Workbook y acceder a los materiales.*
+
 Version de repositorio: 0.0.0
 
-Bienvenido al Workbook de Itroducción a Python. En este Workbook aprenderás los conceptos básicos de programación utilizando el lenguaje Python. Está diseñado para principiantes y no tiene como requisito ninguna experiencia previa en programación ni ninguna otra habilidad técnica.
-El objetivo es que al finalizar el Workbook tengas una comprensión sólida de los fundamentos de Python y puedas comenzar a escribir tus propios programas basicos.
+<!-- TOC -->
+- [Introduccion a Python](#introduccion-a-python)
+  - [Descripción del Workbook](#descripción-del-workbook)
+  - [Estructura del Workbook](#estructura-del-workbook)
+    - [Contenidos:](#contenidos)
+    - [Organización:](#organización)
+  - [Como Empezar](#como-empezar)
+    - [Acceder a los materiales en Google Drive](#acceder-a-los-materiales-en-google-drive)
+    - [Recursos Adicionales](#recursos-adicionales)
+    - [Contacto](#contacto)
+<!-- /TOC -->
 
-# Estructura del Workbook
+## Descripción del Workbook
+<p align='justify'> Bienvenido al Workbook de Itroducción a Python. En este Workbook aprenderás los conceptos básicos de programación utilizando el lenguaje Python. Está diseñado para principiantes y no tiene como requisito ninguna experiencia previa en programación ni ninguna otra habilidad técnica.
+El objetivo es que al finalizar el Workbook tengas una comprensión sólida de los fundamentos de Python y puedas comenzar a escribir tus propios programas basicos.</p>
 
-## Contenidos:
+## Estructura del Workbook
+
+### Contenidos:
 A lo largo de este Workbook, cubriremos los siguientes temas:
 1. Primeros pasos en programación
 2. Sintaxis básica de Python
@@ -21,7 +36,7 @@ A lo largo de este Workbook, cubriremos los siguientes temas:
 10. Programación orientada a objetos simple
 11. Ordenacion y busqueda
 
-## Organización:
+### Organización:
 El Workbook tendra la siguiente estructura de carpetas.
 - Los contenidos de cada capitulo estaran en la carpeta `contenidos/`, donde cada subcarpeta corresponde a un tema del Workbook, teniendo los materiales de los topicos y los ejercicios asignados a sus correspondientes materiales.
 - Las tareas se encontraran en la carpeta `tareas/`, donde cada subcarpeta tendra el respectivo enunciado y hoja de respuestas.
@@ -123,7 +138,7 @@ Introduccion a Programacion en Python/
 ```
 
 ## Como Empezar
-Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un Workbook introductorio, no te sera necesario instalar nada, ya que utilizaremos un espacio para programar llamado [**Google Colab**](https://colab.research.google.com/). Este espacio te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo poder tener acceso de una forma mas amistosa.
+<p align='justify'> Al querer aprender a progrmamar, puede parecer aterrador tener que aprender un nuevo lenguaje, instalar cosas, y trabajar con un nuevo entorno. Sin embargo, al ser un Workbook introductorio, no te sera necesario instalar nada, ya que utilizaremos un espacio para programar llamado [**Google Colab**](https://colab.research.google.com/). Este espacio te permitira ejecutar código Python directamente en tu navegador sin necesidad de instalar nada en tu computadora. Asi podras aprender lo basico y necesario, acostumbrate a escribir, y sobre todo poder tener acceso de una forma mas amistosa.</p>
 
 Para comenzar, simplemente abre la carpeta del Workbook en [**Google Drive**](https://drive.google.com/) en *Mi Unidad*.
 
