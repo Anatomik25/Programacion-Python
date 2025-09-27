@@ -4,7 +4,6 @@
 
 Version de repositorio: 0.0.0
 
-<!-- TOC -->
 - [Introduccion a Python](#introduccion-a-python)
   - [Descripción del Workbook](#descripción-del-workbook)
   - [Estructura del Workbook](#estructura-del-workbook)
@@ -14,7 +13,6 @@ Version de repositorio: 0.0.0
     - [Acceder a los materiales en Google Drive](#acceder-a-los-materiales-en-google-drive)
     - [Recursos Adicionales](#recursos-adicionales)
     - [Contacto](#contacto)
-<!-- /TOC -->
 
 ## Descripción del Workbook
 <p align='justify'> Bienvenido al Workbook de Itroducción a Python. En este Workbook aprenderás los conceptos básicos de programación utilizando el lenguaje Python. Está diseñado para principiantes y no tiene como requisito ninguna experiencia previa en programación ni ninguna otra habilidad técnica.
@@ -49,13 +47,13 @@ Introduccion a Programacion en Python/
 |       ├── capitulo_01_1.ipynb        # Python y la Programación
 |       ├── capitulo_01_2.ipynb        # Primeros pasos en programación (Python en Google Colab)
 |       ├── ejercicios_01_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 02_sintaxis_basica/
 |       ├── capitulo_02_1.ipynb        # Funciones internas y sintaxis básica de Python
 |       ├── capitulo_02_2.ipynb        # Funcionamiento del lenguaje de programación Python
 |       ├── ejercicios_02_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 03_variables_datos/
 |       ├── capitulo_03_1.ipynb        # Variables y tipos de datos
@@ -63,7 +61,7 @@ Introduccion a Programacion en Python/
 |       ├── capitulo_03_3.ipynb        # Conversión de tipos
 |       ├── capitulo_03_4.ipynb        # Entrada y salida de datos
 |       ├── ejercicios_03_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 04_control_de_flujo/
 |       ├── capitulo_04_1.ipynb        # Estructuras de control de flujo
@@ -71,7 +69,7 @@ Introduccion a Programacion en Python/
 |       ├── capitulo_04_3.ipynb        # Bucles
 |       ├── capitulo_04_4.ipynb        # Manejo de excepciones
 |       ├── ejercicios_04_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 05_listas_y_strings/
 |       ├── capitulo_05_1.ipynb        # Listas
@@ -79,25 +77,25 @@ Introduccion a Programacion en Python/
 |       ├── capitulo_05_3.ipynb        # Strings
 |       ├── capitulo_05_4.ipynb        # Métodos de strings
 |       ├── ejercicios_05_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 06_funciones_y_modulos/
 |       ├── capitulo_06_1.ipynb        # Funciones
 |       ├── capitulo_06_2.ipynb        # Módulos y paquetes
 |       ├── capitulo_06_3.ipynb        # Alcance de variables
 |       ├── ejercicios_06_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 07_listas_de_listas/
 |       ├── capitulo_07_1.ipynb        # Listas de listas
 |       ├── capitulo_07_2.ipynb        # Comprensión de listas
 |       ├── ejercicios_07_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 08_recursion/
 |       ├── capitulo_08_1.ipynb        # Funciones recursivas
 |       ├── ejercicios_08_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 9_archivos/
 |       ├── capitulo_09_1.ipynb        # Manejo de archivos de texto
@@ -105,21 +103,21 @@ Introduccion a Programacion en Python/
 |       ├── capitulo_09_3.ipynb        # Archivos CSV
 |       ├── capitulo_09_4.ipynb        # Archivos JSON
 |       ├── ejercicios_09_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   ├── 10_programacion_orientada_a_objetos/
 |       ├── capitulo_10_1.ipynb        # Introducción a la programación orientada a objetos
 |       ├── capitulo_10_2.ipynb        # Materiales y objetos
 |       ├── capitulo_10_3.ipynb        # Atributos y métodos
 |       ├── ejercicios_10_1.ipynb
-|       ├── content/
+|       └── content/
 |
 |   └── 11_ordenacion_y_busqueda/
 |       ├── capitulo_11_1.ipynb        # Sort
 |       ├── capitulo_11_2.ipynb        # Búsqueda
 |       ├── capitulo_11_3.ipynb        # Algoritmos de ordenación
 |       ├── ejercicios_11_1.ipynb
-|       ├── content/
+|       └── content/
 |
 ├── tareas/
 |   ├── t_0/
@@ -128,13 +126,14 @@ Introduccion a Programacion en Python/
 |   ├── t_1/
 |       ├── t_1_Hoja_Respuestas.ipynb
 |       ├── t_1_Instrucciones.ipynb
-|   ├── t_2/
+|   └── t_2/
 |       ├── t_2_Hoja_Respuestas.ipynb
-|       ├── t_2_Instrucciones.ipynb
+|       └── t_2_Instrucciones.ipynb
+|
 ├── miscelaneos/
-|   ├── reWorkbooks_adicionales/
-|   ├── glosario.md
-└── README.md
+|   └── glosario.md
+|
+└── README.md                          # Raíz del repositorio (este archivo)
 ```
 
 ## Como Empezar
@@ -165,7 +164,7 @@ Para comenzar, simplemente abre la carpeta del Workbook en [**Google Drive**](ht
 
 
 ### Recursos Adicionales
-A lo largo del Workbook, se proporcionarán Recursos Adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`. Puedes ver el listado en `miscelaneos/glosario.md`.
+A lo largo del Workbook, se proporcionarán Recursos Adicionales, como enlaces a documentación oficial, tutoriales en línea y ejercicios prácticos para reforzar tu aprendizaje. Estos estarán disponibles en la carpeta `miscelaneos/recursos_adicionales/`.
 
 ### Contacto
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme a través de [anatomik2025@gmail.com](mailto:anatomik2025@gmail.com).

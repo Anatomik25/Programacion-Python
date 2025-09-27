@@ -17,19 +17,27 @@ Python-Programming/
 ├── Python_Introductorio/
 │   ├── contenidos/
 │   ├── tareas/
+|   ├── miscelaneos/
 │   └── PI_README.md
+|
 ├── Python_Avanzado/
 │   ├── contenidos/
 │   ├── tareas/
+|   ├── miscelaneos/
 │   └── PA_README.md
+|
 ├── Python_Aplicado/
 │   ├── contenidos/
 │   ├── tareas/
+|   ├── miscelaneos/
 │   └── PA_README.md
+|
 ├── Python_Proyectos/
 │   ├── proyectos/
+|   ├── miscelaneos/
 │   └── PP_README.md
-└── README.md
+|
+└── README.md               # Raíz del repositorio (este archivo)
 ```
 
 ## Cursos Disponibles
